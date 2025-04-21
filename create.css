@@ -181,7 +181,7 @@ button {
     cursor: pointer;
 }
 
-footer{
+footer{  /*this is about the footer tag*/
     background-color: rgb(250, 196, 59);
     height:50px;
     margin: auto;
