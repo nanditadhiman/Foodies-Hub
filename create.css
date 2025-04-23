@@ -173,7 +173,7 @@ span a{
 }
 
 button {
-    padding: 10px;
+    padding: 10px; /*this is to make padding in our output */
     background-color:paleturquoise ;
     color: white;
     border: none;
